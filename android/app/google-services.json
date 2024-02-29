@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013563721753",
+    "project_id": "shubhashapp-65d9b",
+    "storage_bucket": "shubhashapp-65d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013563721753:android:5ccfb1b89113e4bfc18288",
+        "android_client_info": {
+          "package_name": "com.example.shubhash_stationary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGO44UtdlxQOWPVrF-k6V_Va1FSur8Ek0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
